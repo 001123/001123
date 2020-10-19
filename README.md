@@ -1,4 +1,4 @@
-### Hi there 👋
+### (っ◔◡◔)っ ♥ Hi there ♥ 👋
 
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning Fullstack Nodejs

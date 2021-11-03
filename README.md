@@ -1,6 +1,6 @@
 ### ツ Hi there 👋
 
-- 🔭 I’m currently working on Frontend, Web app developer
+- 🔭 I’m currently working on Front-end, Web app developer
 - 🌱 I’m currently learning Fullstack
 - 👯 I’m looking to collaborate on edtech industry 
 - 🤔 I’m looking for help with backend knowledge 

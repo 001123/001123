@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://linkedin.com/in/buikhuongduy
 - ⚡ Fun fact: I'm try to be a Designer 😎
 
-![](https://komarev.com/ghpvc/?username=001123&color=blue) Thanks for view my profile. 🙏
+![](https://komarev.com/ghpvc/?username=001123&color=blue) Thanks for view my profile 🙏

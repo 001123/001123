@@ -11,5 +11,3 @@
 - Thanks for view my profile, have a nice day 🙏 
 
 ![](https://komarev.com/ghpvc/?username=001123&color=blue) 
-
-![001123 GitHub stats](https://github-readme-stats.vercel.app/api?username=001123&show_icons=true&theme=vue)

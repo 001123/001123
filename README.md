@@ -1,12 +1,9 @@
 ### ツ Hi there 👋
 
-
-
 - 🔭 I’m currently working on Front-end, Web app developer
 - 🌱 I’m currently learning Fullstack
 - 👯 I’m looking to collaborate on edtech industry 
 - 🤔 I’m looking for help with backend knowledge 
-- 📫 How to reach me: https://linkedin.com/in/buikhuongduy
 - ⚡ Fun fact: I'm try to be a Designer 😎
 - Thanks for view my profile, have a nice day 🙏 
 

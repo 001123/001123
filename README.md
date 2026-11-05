@@ -1,4 +1,4 @@
-# Hi, I'm Khuong Duy (Tim) Bui 👋
+# Hi, I'm Bui Khuong Duy 👋
 
 **AI-native Frontend Lead** based in **Ho Chi Minh City, Vietnam**, with 9+ years of experience building fast, scalable web applications with **React, Next.js, Vue, Nuxt and Tailwind CSS**, plus hands-on **DevOps and Kubernetes (K8s)**.
 
@@ -7,8 +7,8 @@
 ## 🚀 About me
 
 ```ts
-const tim: Developer = {
-  name: "Khuong Duy (Tim) Bui",
+const duy: Developer = {
+  name: "Bui Khuong Duy",
   role: "AI-native Frontend Lead",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   experience: "9+ years",
@@ -36,8 +36,8 @@ const tim: Developer = {
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [Khuong Duy (Tim) Bui](https://www.linkedin.com/in/buikhuongduy)
+- 💼 LinkedIn: [Bui Khuong Duy](https://www.linkedin.com/in/buikhuongduy)
 
 Thanks for visiting my profile, have a nice day! 🙏
 
-![Profile views of Khuong Duy (Tim) Bui](https://komarev.com/ghpvc/?username=001123&color=blue)
+![Profile views of Bui Khuong Duy](https://komarev.com/ghpvc/?username=001123&color=blue)

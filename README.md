@@ -6,11 +6,22 @@
 
 ## 🚀 About me
 
-- 🔭 Leading frontend development and growing into a **Solution Architect** role
-- 🤖 Building **AI workflows** and developer tools around coding agents like Claude Code
-- 🌱 Currently learning **AI engineering, DevOps, DevSecOps, Infrastructure and Automation**
-- 👯 Looking to collaborate on **AI products** and frontend / AI tooling
-- ⚡ Fun fact: I'm trying to become a designer too 😎
+```ts
+const tim: Developer = {
+  name: "Khuong Duy (Tim) Bui",
+  role: "AI-native Frontend Lead",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  experience: "9+ years",
+
+  currentlyBuilding: ["Scalable frontends", "AI workflows", "Tools for coding agents"],
+  levelingUpTo: "Solution Architect",
+  learning: ["AI engineering", "DevOps", "DevSecOps", "Infrastructure", "Automation"],
+  openToCollaborate: "AI products & developer tooling",
+
+  funFact: "A developer slowly sneaking into design 🎨",
+  motto: "Ship fast, ship clean, let the agents handle the boring parts 🤖",
+};
+```
 
 ## 🛠️ Tech stack
 

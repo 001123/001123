@@ -5,7 +5,7 @@
 > Building frontends where AI agents are part of the team.
 
 <!-- TODO: thay link lab thật vào đây, hoặc xoá dòng này nếu lab chưa public -->
-🧪 **[AI-Native Lab](https://LINK-TO-YOUR-LAB)**: my experiments on how frontend teams ship when coding agents are part of the workflow.
+🧪 **[AI-Native Lab](https://kd.io.vn)**: my experiments on how frontend teams ship when coding agents are part of the workflow.
 
 ## 🚀 About me
 

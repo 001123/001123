@@ -5,7 +5,7 @@
 > Building frontends where AI agents are part of the team.
 
 <!-- TODO: thay link lab thật vào đây, hoặc xoá dòng này nếu lab chưa public -->
-🧪 **[AI-Native Lab](https://kd.io.vn)**: my experiments on how frontend teams ship when coding agents are part of the workflow.
+🧪 **[KD Labs](https://kd.io.vn)**: my experiments on how frontend teams ship when coding agents are part of the workflow.
 
 ## 🚀 About me
 
@@ -42,7 +42,7 @@ const duy: Developer = {
 
 ## 📌 Featured projects
 
-- [**code-acp**](https://github.com/001123/code-acp): a VS Code extension that runs Claude Code through the Agent Client Protocol (ACP)
+- [**kd-code**](https://github.com/kd-labs-io/kd-code-extension): a VS Code extension that runs Claude Code through the Agent Client Protocol (ACP)
 - [**happier-chat**](https://github.com/001123/happier-chat): a self-built ChatGPT-like AI chat application
 
 ## 📫 Connect with me
